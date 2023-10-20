@@ -8,9 +8,9 @@ from django.utils.http import urlsafe_base64_decode, urlsafe_base64_encode
 from django.contrib.auth.tokens import PasswordResetTokenGenerator
 
 from account.utils import Util
-import pdb
+# import pdb
 
-
+ 
 
 # Serializer for user registration
 class UserRegistrationSerializer(serializers.ModelSerializer):
