@@ -1,3 +1,5 @@
+# Utility class for sending email using Django's EmailMessage
+
 from django.core.mail import EmailMessage
 import os 
 
