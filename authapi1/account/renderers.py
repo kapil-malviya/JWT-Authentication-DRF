@@ -5,7 +5,7 @@
 
 from rest_framework import renderers
 import json
-
+ 
 
 class UserRenderer(renderers.JSONRenderer):
 	# Set the charset for the JSON response
