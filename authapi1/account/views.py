@@ -7,7 +7,7 @@ from account.renderers import UserRenderer
 from rest_framework_simplejwt.tokens import RefreshToken
 from rest_framework.permissions import IsAuthenticated
 
-
+ 
 
 # Generate token manually using RefreshToken for a user
 def get_tokens_for_user(user):
