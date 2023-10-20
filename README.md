@@ -1,6 +1,6 @@
 # Django JWT Authentication Project
 
-This Django Rest Framework project showcases JWT-based authentication with a variety of features, including user registration, secure login (with access and refresh token), profile access, email-based password reset, login sessions, and an API collection for easy testing with Postman.
+This Django Rest Framework project offers robust JWT-based authentication with features such as user registration, secure login, profile access, and the convenience of email-based password reset. Additionally, it enhances the user experience by implementing login sessions, and to facilitate testing and integration, an API collection is provided for seamless interaction via Postman. Discover a comprehensive solution for user management and authentication within your Django application.
 
 ## Features
 
