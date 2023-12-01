@@ -21,7 +21,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Python (3.6+)
 - Django (3.0+)
 - Django Rest Framework
-- Postman (for API testing)
+- Postman (for API calling)
 
 ### Installation
 
@@ -36,12 +36,17 @@ Follow these instructions to get a copy of the project up and running on your lo
    pip install -r requirements.txt
    ```
 
-3. Perform initial database migrations:
+3. Navigate to the project level directory:
+   ```
+   cd authapi1
+   ```
+
+4. Perform initial database migrations:
    ```
    python manage.py migrate
    ```
 
-4. Create a superuser for admin access:
+5. Create a superuser for admin access:
    ```
    python manage.py createsuperuser
    ```
