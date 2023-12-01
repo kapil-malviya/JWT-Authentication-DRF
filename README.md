@@ -51,12 +51,17 @@ Follow these instructions to get a copy of the project up and running on your lo
    python manage.py createsuperuser
    ```
 
-5. Run the development server:
+6. Run the development server:
    ```
    python manage.py runserver
    ```
 
-6. Access the admin interface and API collection for testing.
+7. Access the admin interface and API collection for testing.
+
+
+## API Endpoints
+
+
 
 ## Usage
 
